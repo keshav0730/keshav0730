@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @keshav0730
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Keshav Mishra
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Top MNC in world
+- 📫 How to reach me just mail me in kumarmishra0301@gmail.com
 
 <!---
 keshav0730/keshav0730 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
