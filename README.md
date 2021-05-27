@@ -25,8 +25,7 @@
 - 👯 I’m looking to collaborate on My projects as contributor  
 - 🤔 I’m looking for help with idea Contributor  
 - 💬 Ask me about My stuff & innovation  
-- 📫 How to reach me: via Social Media  
-- ⚡ Fun fact: Ha Ha Ha  
+- 📫 How to reach me: via Social Media   
 - Earned Gold badge & 5 star at HackerRank in C/C++,MySql And Python programming.
 - Passionate for learning & exploring new Tech
 - I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
