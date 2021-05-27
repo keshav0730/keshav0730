@@ -21,7 +21,7 @@
 
  
 
-* My primary coding language: JavaScript And Python
+* My primary coding language: JavaScript And C++
 * Earned Gold badge & 5 star at HackerRank in C/C++,MySql And Python programming.
 * Passionate for learning & exploring new Tech. I write [Tech Blogs](https://keshav0730.github.io/iCoderBootstrap/) 
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
