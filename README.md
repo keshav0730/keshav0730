@@ -9,7 +9,7 @@
 ### My Tech Toolbox 🧰
 
 <p align="left">
- <img src="https://commons.wikimedia.org/w/index.php?search=javascript+logo&title=Special:MediaSearch&go=Go&type=image" alt="html5" height="40/>
+ 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
