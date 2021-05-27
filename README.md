@@ -23,10 +23,10 @@
  
 
 * My primary coding language: JavaScript And Python
-* Earned Gold badge & 5 star at HackerRank in Python programming.
+* Earned Gold badge & 5 star at HackerRank in C/C++,MySql And Python programming.
 * Passionate for learning & exploring new Tech. I write [Tech Blogs](https://keshav0730.github.io/iCoderBootstrap/) 
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
-* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/keshav0730).
+* Join my  [Telegram Channel](https://t.me/keshav0730).
 <!--* 🏠 Hogwarts House: Griffindor-->
 <!--* 
 <!--* I am currently learning React-->
