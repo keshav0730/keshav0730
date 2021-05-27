@@ -51,5 +51,11 @@
 
 [Instagram]:https://www.instagram.com/keshav0730/
 [Facebook]: https://www.facebook.com/keshav.mishra.397501
+  
+  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KeshavMisra&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/KeshavMisra)
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
