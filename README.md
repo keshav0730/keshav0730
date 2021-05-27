@@ -1,3 +1,10 @@
+### Hi there <img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif' alt='github' height='40'>  My name is Keshav Kumar Misra
+
+### Connect me Via
+
+
+
+
 - 👋 Hi, I’m Keshav Mishra
 - 👀 My primary coding language: JavaScript
 - ⭐ Earned Gold badge & 5 star at HackerRank in C,C++,My SQL JavaScript programming.
