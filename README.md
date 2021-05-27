@@ -21,20 +21,16 @@
 
  
 
-* My primary coding language: JavaScript And C++
-* Earned Gold badge & 5 star at HackerRank in C/C++,MySql And Python programming.
-* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://keshav0730.github.io/iCoderBootstrap/) 
-* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
-* Join my  [Telegram Channel](https://t.me/keshav0730).
-<!--* 🏠 Hogwarts House: Griffindor-->
-<!--* 
-<!--* I am currently learning React-->
-<!--* I’m currently working on my portfolio. -->
-<!-- * Ask me about anything, I'll be happy to help.-->
-<!-- -->
-<!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
-
----
+- My primary coding language: JavaScript And C++
+- 👯 I’m looking to collaborate on My projects as contributor  
+- 🤔 I’m looking for help with idea Contributor  
+- 💬 Ask me about My stuff & innovation  
+- 📫 How to reach me: via Social Media  
+- ⚡ Fun fact: Ha Ha Ha  
+- Earned Gold badge & 5 star at HackerRank in C/C++,MySql And Python programming.
+- Passionate for learning & exploring new Tech
+- I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
+- Join my  [Telegram Channel](https://t.me/keshav0730).
 
 <table><tr><td valign="top" width="50%">
 
