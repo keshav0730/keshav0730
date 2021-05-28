@@ -4,6 +4,8 @@
 [<img height="30" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
+![Profile views](https://gpvc.arturio.dev/KeshavMishra)
+
 ### My Tech Toolbox 🧰
 
 <p align="left">
@@ -36,6 +38,6 @@
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KeshavMishra&show_icons=true)  
-![Profile views](https://gpvc.arturio.dev/KeshavMishra)
+
  
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
