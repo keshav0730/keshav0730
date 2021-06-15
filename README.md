@@ -4,7 +4,7 @@
 [<img height="30" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-![Profile views](https://gpvc.arturio.dev/KeshavMishra)
+
 
 ### My Tech Toolbox 🧰
 
