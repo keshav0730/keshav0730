@@ -1,5 +1,6 @@
-# Hi there! [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Keshav Mishra]
+# Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Keshav Mishra
 
+<img src="https://your-image-link-here" alt="Keshav Mishra" width="200"/>
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white)][Instagram]
@@ -9,10 +10,10 @@
 
 ## About Me
 
-I am a passionate developer with a keen interest in learning and exploring new technologies. My primary coding languages are JavaScript and C++, and I enjoy collaborating on projects and contributing to the tech community. I'm also diving into the exciting world of Artificial Intelligence.
+I am a passionate developer with a keen interest in learning and exploring new technologies. My primary coding languages are JavaScript and C++, and I enjoy collaborating on projects and contributing to the tech community. I'm also diving into the exciting worlds of Web3, Solana, and other hot frontend topics.
 
-- 🔭 **Current Focus:** Building my online presence and working on AI-driven projects.
-- 🌱 **Learning Path:** Continuously expanding my knowledge in AI, Machine Learning, and Data Science.
+- 🔭 **Current Focus:** Building my online presence, working on AI-driven projects, and exploring Web3 and Solana.
+- 🌱 **Learning Path:** Continuously expanding my knowledge in AI, Machine Learning, Web3, and blockchain technologies.
 - 👯 **Collaboration:** Looking to collaborate on innovative projects and contribute to open-source.
 - 🤔 **Seeking Help:** Open to idea contributions and innovative solutions.
 - 💬 **Ask Me About:** My projects, innovations, and anything tech-related.
@@ -39,6 +40,9 @@ I am a passionate developer with a keen interest in learning and exploring new t
  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" />
  <img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" />
  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" />
+ <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blockchain_logo.png/320px-Blockchain_logo.png" alt="Blockchain" />
+ <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Solana_logo.png/768px-Solana_logo.png" alt="Solana" />
+ <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Web3_logo.png" alt="Web3" />
 </p>
 
 ---
@@ -51,6 +55,17 @@ Here are some of my AI and Machine Learning projects:
 - **[Image Classification](#)**: Implemented an image classification model using TensorFlow and Keras.
 - **[Recommendation System](#)**: Built a recommendation system using collaborative filtering techniques.
 - **[Sentiment Analysis](#)**: Created a sentiment analysis tool to analyze social media trends.
+
+---
+
+## Web3 & Blockchain Projects 🛠️
+
+Here are some of my Web3 and blockchain projects:
+
+- **[Decentralized App (DApp)](#)**: Built a DApp on the Ethereum blockchain using Solidity and Web3.js.
+- **[NFT Marketplace](#)**: Developed an NFT marketplace on the Solana blockchain.
+- **[Smart Contract Development](#)**: Created and deployed smart contracts for various applications.
+- **[DeFi Platform](#)**: Worked on a decentralized finance (DeFi) platform leveraging blockchain technology.
 
 ---
 
