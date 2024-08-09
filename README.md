@@ -1,6 +1,5 @@
 # Hi there! [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Keshav Mishra]
 
-<img src="https://your-image-link-here" alt="Keshav Mishra" width="200"/>
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white)][Instagram]
