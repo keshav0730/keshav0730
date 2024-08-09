@@ -1,5 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Keshav Mishra
 
+<img src="https://your-image-link-here" alt="Keshav Mishra" width="200"/>
+
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white)][Instagram]
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn]
@@ -72,6 +74,6 @@ Here are some of my AI and Machine Learning projects:
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 
-[twitter]: https://twitter.com/KeshavMishra07
-[linkedin]: https://www.linkedin.com/in/keshav-k-mishra-b3089b165/
-[Instagram]: https://www.instagram.com/keshav0730/
+[twitter]: https://twitter.com/KeshavMishra07 "target=_blank"
+[linkedin]: https://www.linkedin.com/in/keshav-k-mishra-b3089b165/ "target=_blank"
+[Instagram]: https://www.instagram.com/keshav0730/ "target=_blank"
