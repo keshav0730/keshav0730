@@ -4,7 +4,7 @@
 
 ## About Me
 
-Seasoned developer with deep expertise in building high-performance web applications. Mastery of **React.js**, **Next.js**, and **Node.js**, combined with a strong background in **MySQL** and **MongoDB**. Dedicated to engineering robust solutions and advancing cutting-edge technology.
+Tech enthusiast with a relentless drive to explore and innovate. Passionate about mastering **React.js**, **Next.js**, and **Node.js**, while leveraging a solid foundation in **MySQL** and **MongoDB**. Committed to pushing boundaries and crafting cutting-edge solutions.
 
 ---
 
