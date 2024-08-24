@@ -4,7 +4,8 @@
 
 ## About Me
 
-Tech enthusiast with a relentless drive to explore and innovate. Passionate about mastering **React.js**, **Next.js**, and **Node.js**, while leveraging a solid foundation in **MySQL** and **MongoDB**. Committed to pushing boundaries and crafting cutting-edge solutions.
+Tech enthusiast with an insatiable drive for exploring and mastering new technologies. Dedicated to pushing boundaries and crafting innovative solutions across various domains.
+
 
 ---
 
