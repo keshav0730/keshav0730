@@ -41,7 +41,5 @@
 ---
 
 ## Achievements & Badges 🎖️
-
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/keshav0730)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/keshav0730/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/keshav0730)
