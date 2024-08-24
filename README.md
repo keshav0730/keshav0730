@@ -1,11 +1,11 @@
 # Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Keshav Mishra
 
-🚀 Exploring the tech universe, one line of code at a time!
+
 
 
 ## About Me
 
-Tech enthusiast with an insatiable drive for exploring and mastering new technologies. Dedicated to pushing boundaries and crafting innovative solutions across various domains.
+🚀 Exploring the tech universe, one line of code at a time!
 
 
 ---
