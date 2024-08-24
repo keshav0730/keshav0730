@@ -1,8 +1,10 @@
+<div align="center"> 
+  
 # Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Keshav Mishra
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-[![Instagram](https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white)][Instagram]
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn]
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KeshavMishra07)
+[![Instagram](https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keshav0730/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)
 
 ---
 
@@ -39,12 +41,6 @@ In the dynamic tech landscape, I'm committed to lifelong learning. I stay curren
 
 ---
 
-## Let's Connect
-
-I'm enthusiastic about the potential of technology to shape the future, and I'm open to networking and collaborative opportunities. Whether you're interested in discussing a potential project, sharing insights, or exploring ways we can collaborate, feel free to connect with me here on [LinkedIn][LinkedIn] or reach out via email at keshav0730@gmail.com.
-
----
-
 ## GitHub Stats 📊
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=keshav0730&show_icons=true&theme=radical)  
@@ -52,10 +48,24 @@ I'm enthusiastic about the potential of technology to shape the future, and I'm 
 
 ---
 
+## Leetcode Info
+
+<p align="center">
+  <a href="https://leetcode.com/u/keshav0730/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode Badge 1" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/keshav0730/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode Badge 2" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/keshav0730/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge 3" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/keshav0730/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge 4" height="200" width="200" /></a>
+</p>
+<p align="center">
+  <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/keshav0730?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
+---
+
 ## Achievements & Badges 🎖️
 
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/keshav0730)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/keshav0730)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/keshav0730/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/keshav0730)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/1234567/keshav-mishra)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/keshav0730)
@@ -64,6 +74,4 @@ I'm enthusiastic about the potential of technology to shape the future, and I'm 
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 
-[twitter]: https://twitter.com/KeshavMishra07 "target=_blank"
-[linkedin]: https://www.linkedin.com/in/keshav-k-mishra-b3089b165/ "target=_blank"
-[Instagram]: https://www.instagram.com/keshav0730/ "target=_blank"
+</div>
