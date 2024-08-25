@@ -1,10 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Keshav 
 
 
-
-
-## About Me
-
 🚀 Exploring the tech universe, one line of code at a time!
 
 
