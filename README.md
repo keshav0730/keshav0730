@@ -23,15 +23,7 @@ In the realm of binaries and algorithms, I forge solutions that push the limits 
 
 Where logic meets precision. Click to witness the grind:  
 
-<div align="center">  
-
-<p>
-  <a href="https://leetcode.com/u/keshav0730/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode Badge 1" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/keshav0730/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode Badge 2" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/keshav0730/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge 3" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/keshav0730/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge 4" height="200" width="200" /></a>
-</p>
-
+<div align="center"> 
 <p>
   <a href="https://leetcode.com/u/keshav0730/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/keshav0730?theme=nord&font=JetBrains%20Mono&ext=heatmap" />  
