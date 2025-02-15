@@ -1,9 +1,15 @@
+Here's a modern, dark, and hacker-style GitHub README tailored to your "Batcave" and "Dark Coder" persona. This version adds a cyberpunk feel with glitch animations, a terminal effect, and an overall underground hacker aesthetic.  
 
 ---
 
-# 🦇 Welcome to the Shadows  
+# 🦇 **Enter the Batcave**  
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1f1f1f&height=150&section=header&text=Keshav%20Mishra&fontSize=40&fontColor=ffffff&animation=fadeIn)  
+```diff
++ SYSTEM BOOTING... ACCESS GRANTED...
+- Unauthorized access will be logged and terminated.
+```
+
+![Glitch Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=09F7F7&background=000000&center=true&vCenter=true&width=850&lines=%E2%9A%A1+Welcome+to+the+Shadows...;_%F0%9D%90%8A%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%AD+%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A1%F0%9D%90%A8%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%9A;constantly+evolving...+always+learning...)  
 
 ```cpp
 while (true) {
@@ -11,105 +17,136 @@ while (true) {
   debug();
   evolve();
 }
-```  
-
-### 🚀 Architect of Logic | Seeker of Perfection | Master of the Digital Abyss  
-
-In the realm of binaries and algorithms, I forge solutions that push the limits of logic. A relentless problem-solver, I thrive in the darkness of debugging and emerge with innovations that illuminate the tech universe.  
+```
 
 ---
 
-## 🔥 LeetCode Chronicles  
+## 🚀 **Architect of the Digital Underworld**  
 
-Where logic meets precision. Click to witness the grind:  
+I am Keshav Mishra, a **full-stack engineer**, a **problem solver**, and a **guardian of the digital abyss**. I write elegant yet robust code, optimizing performance while navigating the ever-evolving landscape of technology.  
 
-<div align="center"> 
-<p>
-  <a href="https://leetcode.com/u/keshav0730/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/keshav0730?theme=nord&font=JetBrains%20Mono&ext=heatmap" />  
+⚡ **Tech Stack:**  
+- Frontend Mastery: React.js | Next.js | TypeScript  
+- Backend Expertise: Node.js | Python | Django  
+- High-Performance Systems: C++ | PostgreSQL | MongoDB  
+- Problem Solving: LeetCode Top 5% | Algorithm Optimization  
+
+---
+
+## 🦇 **LeetCode Chronicles**  
+
+```diff
++ HACK THE CODE | SOLVE THE PROBLEM | EXECUTE PERFECTION
+```
+
+<div align="center">  
+  <a href="https://leetcode.com/u/keshav0730/">
+    <img src="https://leetcard.jacoblin.cool/keshav0730?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
   </a>
-</p>
-
 </div>  
 
 ---
 
-## 📊 GitHub Shadows  
+## 🛠️ **Tech Arsenal**  
 
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=keshav0730&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=keshav0730&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav0730&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width="325" src="https://github-contribs.vercel.app/api?username=keshav0730&theme=tokyonight" alt="total contributions" />
-</div>  
-
----
-
-## 🛠️ Tech Arsenal  
-
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>  
-
----
-
-## 🎖️ Achievements in the Abyss  
+```diff
+- Caution: These tools are not for the faint-hearted.
+```
 
 <div align="center">
 
-🏆 **LeetCode Milestone**: Cracked 500+ problems  
-🛠 **Architect of Scalable Systems**: Designed and developed multiple high-performance applications  
-🔥 **Open Source Contributor**: Actively contributing to projects that shape the future of tech  
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/keshav0730/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/keshav0730)  
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=#61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=green)
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=green)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=green)
 
 </div>  
 
 ---
 
-## 🔥 Live Coding Heatmap  
+## 📊 **GitHub Shadows**  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=keshav0730&theme=react-dark&hide_border=true)  
+```diff
+- Decipher the patterns, trace the commits, and unveil the journey.
+```
+
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=keshav0730&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=keshav0730&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav0730&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" src="https://github-contribs.vercel.app/api?username=keshav0730&theme=dark" alt="total contributions" />
+</div>  
 
 ---
 
-## 🦇 Quote of the Day  
+## 🔥 **Live Coding Heatmap**  
+
+```diff
+- Tracing digital footprints... 🕵️‍♂️
+```
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=keshav0730&theme=github-dark&hide_border=true)  
+
+---
+
+## 🎖️ **Achievements in the Abyss**  
+
+```diff
++ Not just lines of code, but marks of impact.
+```
+
+- 🏆 **LeetCode Warrior:** 500+ challenges conquered  
+- 🛠 **Architect of Scalable Systems:** Engineered high-performance applications  
+- 🔥 **Open Source Contributor:** Powering the future of tech  
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=flat&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/keshav0730/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/keshav0730)  
+
+---
+
+## 🦇 **Quote of the Day**  
+
+```diff
+- Every master was once a beginner. Every legend was once a nobody.
+```
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 
 ---
 
-## 📫 Connect with Me  
+## 📫 **Connect with Me**  
+
+```diff
++ Reach out if you're ready to push the boundaries.
+```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavmishra0730/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/keshavmishra07)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thebatcave.in)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/keshavmishra0730/)  
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/keshavmishra07)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://thebatcave.in)  
 
 </div>  
 
 ---
 
-### 🔹 _Welcome back, Dark Coder. The digital shadows await your solutions._  
+### 🦇 _Welcome back, Dark Coder. The digital shadows await your solutions._  
 
 ---
 
-### 🔥 Enhancements & New Features Added:  
-✅ **Animated Header** (Capsule Render)  
-✅ **Live GitHub Contribution Heatmap**  
-✅ **Dynamic Quote Generator**  
-✅ **3D GitHub Stats & Contribution Cards**  
-✅ **Tech Stack Shields**  
+### 🔥 **Upgrades & Enhancements**  
 
+✅ **Glitch Effect & Hacker Terminal Aesthetic**  
+✅ **Black & Neon Cyberpunk Theme**  
+✅ **Dynamic LeetCode Heatmap & GitHub Stats**  
+✅ **Animated Typing & Live Contribution Map**  
+✅ **Minimalist Dark Shields & Hacking Vibes**  
+
+---
+
+This should now feel more like a modern, hacker-themed Batcave. Let me know if you want more tweaks! 🚀
