@@ -136,13 +136,4 @@ I **debug the void**, optimize performance, and push technology into uncharted t
 
 ### 🦇 _Welcome back, Dark Coder. The Bitcave is yours to command._  
 
----
-
-### 🔥 **UPGRADES & ENHANCEMENTS**  
-
-✅ **Glitch Effect & Hacker Terminal Aesthetic**  
-✅ **Black & Neon Cyberpunk Theme**  
-✅ **Dynamic LeetCode Heatmap & GitHub Stats**  
-✅ **Animated Typing & Live Contribution Map**  
-✅ **Minimalist Dark Shields & Hacking Vibes**  
 
