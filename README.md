@@ -99,7 +99,7 @@ I **debug the void**, optimize performance, and push technology into uncharted t
 + Not just code, but digital warfare.
 ```
 
-- 🏆 **LeetCode Warrior:** 500+ algorithmic battles won  
+- 🏆 **LeetCode Warrior:** 10+ algorithmic battles won  
 - 🛠 **Architect of Scalable Systems:** Engineered high-performance applications  
 - 🔥 **Open Source Operative:** Contributing to projects that redefine the future  
 
