@@ -1,12 +1,9 @@
-
-# 🦇 **WELCOME TO THE BITCAVE**  
-
 ```diff
 + SYSTEM BOOTING... ACCESS GRANTED...
 - Unauthorized access will be logged and traced.
 ```
 
-![Glitch Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=09F7F7&background=000000&center=true&vCenter=true&width=850&lines=%E2%9A%A1+Booting+into+the+Bitcave...;_%F0%9D%90%8A%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%AD+%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A1%F0%9D%90%A8%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%9A;Analyzing+Cyber+Matrix...+;Decrypting+Logic...;Executing+Next+Move...)  
+![Glitch Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=09F7F7&background=000000&center=true&vCenter=true&width=850&lines=%E2%9A%A1+Initializing+Systems...;_%F0%9D%90%8A%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%AD+%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A1%F0%9D%90%A8%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%9A;Analyzing+Cyber+Matrix...+;Decrypting+Logic...;Executing+Next+Move...)
 
 ```cpp
 while (true) {
@@ -18,21 +15,25 @@ while (true) {
 
 ---
 
-## 🚀 **DIGITAL SHADOW ARCHITECT**  
+## 🚀 **ABOUT ME**  
 
-Welcome to my **Bitcave**, where I weave algorithms and craft scalable architectures.  
-A full-stack developer by day, a **digital shadow manipulator** by night.  
-I **debug the void**, optimize performance, and push technology into uncharted territories.  
+A full-stack developer passionate about crafting scalable architectures and optimizing performance.
 
 ⚡ **Core Specializations:**  
-- **Frontend Combat:** React.js | Next.js | TypeScript  
-- **Backend Mastery:** Node.js | Python | Django  
-- **System Optimization:** C++ | PostgreSQL | MongoDB  
-- **Algorithmic Warfare:** LeetCode Top 5% | Dynamic Problem Solving  
+- **Frontend:** React.js | Next.js | TypeScript  
+- **Backend:** Node.js | Python | Django  
+- **Databases:** PostgreSQL | MongoDB  
+- **Competitive Programming:** LeetCode Top 5%  
+
+🌱 I’m currently learning Vue, NestJS  
+👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/keshav0730?tab=repositories)  
+💬 Ask me about MySQL, Laravel, Angular  
+📫 How to reach me: keshav0730@gmail.com  
+📄 Know about my experiences in creating efficient and scalable web solutions. With more than 4 years of experience in the industry, I have comprehensive skills that allow me to work both on the server side and on the front end.  
 
 ---
 
-## 🦇 **LEETCODE CHRONICLES**  
+## 🦇 **LEETCODE**  
 
 ```diff
 + HACK THE CODE | CRACK THE LOGIC | EXECUTE PERFECTION
@@ -46,11 +47,7 @@ I **debug the void**, optimize performance, and push technology into uncharted t
 
 ---
 
-## 🛠️ **TECH ARSENAL**  
-
-```diff
-- These tools define my battlefield.
-```
+## 🛠️ **TECH STACK**  
 
 <div align="center">
 
@@ -68,11 +65,7 @@ I **debug the void**, optimize performance, and push technology into uncharted t
 
 ---
 
-## 📊 **GITHUB SHADOWS**  
-
-```diff
-- Tracing digital footprints... 🕵️‍♂️
-```
+## 📊 **GITHUB STATS**  
 
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=keshav0730&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
@@ -83,36 +76,18 @@ I **debug the void**, optimize performance, and push technology into uncharted t
 
 ---
 
-## 🔥 **LIVE CODING HEATMAP**  
-
-```diff
-- Analyzing Patterns, Deciphering Commits...
-```
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=keshav0730&theme=github-dark&hide_border=true)  
-
----
-
-## 🎖️ **ACHIEVEMENTS IN THE BITCAVE**  
-
-```diff
-+ Not just code, but digital warfare.
-```
+## 🎖️ **ACHIEVEMENTS**  
 
 - 🏆 **LeetCode Warrior:** 10+ algorithmic battles won  
 - 🛠 **Architect of Scalable Systems:** Engineered high-performance applications  
-- 🔥 **Open Source Operative:** Contributing to projects that redefine the future  
+- 🔥 **Open Source Contributor:** Helping build the future of tech  
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=flat&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/keshav0730/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/keshav0730)  
 
 ---
 
-## 🦇 **QUOTE OF THE DAY**  
-
-```diff
-- Every master was once a beginner. Every legend was once a nobody.
-```
+## 📝 **QUOTE OF THE DAY**  
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 
@@ -120,19 +95,10 @@ I **debug the void**, optimize performance, and push technology into uncharted t
 
 ## 📫 **CONNECT WITH ME**  
 
-```diff
-+ Reach out if you're ready to push the boundaries.
-```
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://thebatcave.in)  
 
 </div>  
-
----
-
-### 🦇 _Welcome back, Dark Coder. The Bitcave is yours to command._  
-
 
