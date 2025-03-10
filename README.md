@@ -126,8 +126,7 @@ I **debug the void**, optimize performance, and push technology into uncharted t
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)  
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=1DA1F2)]([https://twitter.com/keshavmishra07](https://x.com/KeshavMishra07)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://thebatcave.in)  
 
 </div>  
