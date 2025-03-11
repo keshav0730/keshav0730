@@ -71,7 +71,6 @@ A full-stack developer passionate about crafting scalable architectures and opti
   <img width="390" src="https://streak-stats.demolab.com/?user=keshav0730&count_private=true&theme=dark&border_radius=10"/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=keshav0730&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav0730&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width="325" src="https://github-contribs.vercel.app/api?username=keshav0730&theme=dark"/>
 </div>  
 
 ---
