@@ -17,22 +17,7 @@ while (true) {
 
 ## 🚀 **ABOUT ME**  
 
-A full-stack developer passionate about crafting scalable architectures and optimizing performance.
-
-⚡ **Core Specializations:**  
-- **Frontend:** React.js | Next.js | TypeScript  
-- **Backend:** Node.js | Python | Django  
-- **Databases:** PostgreSQL | MongoDB  
-- **Competitive Programming:** LeetCode Top 5%  
-
-🌱 I’m currently learning Vue, NestJS  
-👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/keshav0730?tab=repositories)  
-💬 Ask me about MySQL, Laravel, Angular  
-📫 How to reach me: keshav0730@gmail.com  
-📄 Know about my experiences in creating efficient and scalable web solutions. With more than 4 years of experience in the industry, I have comprehensive skills that allow me to work both on the server side and on the front end.  
-🌐 Check out my website: [KeshavDev](https://keshavdev.netlify.app/)  
-
----
+A developer passionate about crafting scalable architectures and optimizing performance.
 
 ## 🦇 **LEETCODE**  
 
