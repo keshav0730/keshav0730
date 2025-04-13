@@ -21,18 +21,6 @@ A developer passionate about crafting scalable architectures and optimizing perf
 
 ## 🦇 **LEETCODE**  
 
-```diff
-+ HACK THE CODE | CRACK THE LOGIC | EXECUTE PERFECTION
-```
-
-<div align="center">  
-  <a href="https://leetcode.com/u/keshav0730/">
-    <img src="https://leetcard.jacoblin.cool/keshav0730?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
-  </a>
-</div>  
-
----
-
 ## 🛠️ **TECH STACK**  
 
 <div align="center">
@@ -48,29 +36,6 @@ A developer passionate about crafting scalable architectures and optimizing perf
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=green)
 
 </div>  
-
----
-
-## 📊 **GITHUB STATS**  
-
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=keshav0730&count_private=true&theme=dark&border_radius=10"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=keshav0730&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav0730&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>  
-
----
-
-## 🎖️ **ACHIEVEMENTS**  
-
-- 🏆 **LeetCode Warrior:** 10+ algorithmic battles won  
-- 🛠 **Architect of Scalable Systems:** Engineered high-performance applications  
-- 🔥 **Open Source Contributor:** Helping build the future of tech  
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=flat&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/keshav0730/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/keshav0730)  
-
----
 
 ## 📝 **QUOTE OF THE DAY**  
 
