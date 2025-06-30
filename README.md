@@ -1,7 +1,5 @@
-# 🌐 FRONTEND ARCHITECT • EVOLVING INTO FULL-STACK QUANTUM
-
 ```diff
-+ ✅ FRONTEND MASTERY: LEVEL 100 ACHIEVED
++ ✅ FRONTEND MASTERY: LEARNING MODE ACTIVE
 + ✅ BACKEND PROTOCOLS: LEARNING MODE ACTIVE
 + ✅ DATA SCIENCE PATHWAYS: NEURAL TRAINING INITIATED  
 + ✅ UI/UX QUANTUM ENGINE: FULLY OPERATIONAL
@@ -65,14 +63,6 @@ class KeshavMishra implements FrontendArchitect {
 
 </div>
 
-
-## 📊 **PERFORMANCE ANALYTICS**
-
-<div align="center">
-
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav0730&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=ffffff&hide=html,css&langs_count=8" />
-
-</div>
 
 ## 🌟 **DAILY INSPIRATION FEED**
 
