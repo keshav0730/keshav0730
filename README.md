@@ -72,21 +72,6 @@ class KeshavMishra implements FrontendArchitect {
 
 </div>
 
-
-## 🌐 **CONNECT WITH THE ARCHITECT**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/PROFESSIONAL_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)
-[![Portfolio](https://img.shields.io/badge/FRONTEND_SHOWCASE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thebatcave.in)
-[![Website](https://img.shields.io/badge/PERSONAL_BRAND-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://keshavdev.netlify.app/)
-[![Twitter](https://img.shields.io/badge/TECH_THOUGHTS-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Dev.to](https://img.shields.io/badge/LEARNING_BLOG-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](#)
-
-</div>
-
----
-
 <div align="center">
 
 ## 💫 **FRONTEND ARCHITECT'S MANIFESTO**
