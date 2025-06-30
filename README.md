@@ -192,21 +192,6 @@ graph LR
 
 </div>
 
----
-
-## 🧩 **PROBLEM SOLVING MATRIX**
-
-<div align="center">
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yourusername&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-### 💡 **CODING PHILOSOPHY**
-> "Clean code is not written by following a set of rules. Clean code is written by following a clear intention." - Frontend First, Performance Always
-
-</div>
-
----
-
 ## 🌟 **DAILY INSPIRATION FEED**
 
 <div align="center">
