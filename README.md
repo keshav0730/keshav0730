@@ -6,13 +6,6 @@
 - ⚠️  PIXEL-PERFECT OBSESSION: MAXIMUM INTENSITY
 - 🔄 CONTINUOUS EVOLUTION: NEVER-ENDING UPGRADE CYCLE
 ```
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%8E%A8+CRAFTING+PIXEL-PERFECT+EXPERIENCES...;%E2%9A%A1+MASTERING+REACT+%26+NEXT.JS+ECOSYSTEMS;%F0%9F%94%84+LEARNING+BACKEND+ARCHITECTURES;%F0%9F%93%8A+EXPLORING+DATA+SCIENCE+FRONTIERS;%F0%9F%9A%80+BUILDING+THE+FUTURE+OF+WEB)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ## 🧬 **DEVELOPER EVOLUTION MATRIX**
