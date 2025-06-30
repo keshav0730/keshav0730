@@ -126,7 +126,7 @@ class KeshavMishra implements FrontendArchitect {
 
 <div align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00bfff&text_color=ffffff&custom_title=Frontend%20Architect%20Stats" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=keshav0730&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00bfff&text_color=ffffff&custom_title=Frontend%20Architect%20Stats" />
 
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=00ff41&ring=00bfff&fire=ff6b6b&currStreakLabel=00ff41" />
 
@@ -134,7 +134,7 @@ class KeshavMishra implements FrontendArchitect {
 
 <div align="center">
 
-<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=ffffff&hide=html,css&langs_count=8" />
+<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav0730&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=ffffff&hide=html,css&langs_count=8" />
 
 </div>
 
