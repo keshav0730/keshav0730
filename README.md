@@ -9,8 +9,6 @@
 
 <div align="center">
 
-![Cyber Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KESHAV%20MISHRA&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=⚡%20FRONTEND%20ARCHITECT%20•%20FULLSTACK%20APPRENTICE%20•%20DATA%20SCIENCE%20EXPLORER%20⚡&descAlignY=55&descSize=12)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%8E%A8+CRAFTING+PIXEL-PERFECT+EXPERIENCES...;%E2%9A%A1+MASTERING+REACT+%26+NEXT.JS+ECOSYSTEMS;%F0%9F%94%84+LEARNING+BACKEND+ARCHITECTURES;%F0%9F%93%8A+EXPLORING+DATA+SCIENCE+FRONTIERS;%F0%9F%9A%80+BUILDING+THE+FUTURE+OF+WEB)](https://git.io/typing-svg)
 
 </div>
