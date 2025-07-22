@@ -1,8 +1,5 @@
-# Keshav Mishra | Full Stack Developer
 
 **Crafting reliable, scalable, and user-focused solutions.**
-
----
 
 ## About Me
 
@@ -38,12 +35,11 @@ Battle-tested full-stack dev who turns chaos into scalable, high-performance sys
 > "Good code solves problems today and prepares for challenges tomorrow."
 
 ---
-
 ## 📫 Connect With Me
 
 - **Email**: [keshav.mishra@example.com](mailto:keshav0730@gmail.com)
 - **LinkedIn**: [linkedin.com/in/keshavmishra](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)
-- **[Portfolio](https://keshavx.vercel.app/)
+- **Portfolio**: <a href="https://keshavx.vercel.app/" target="_blank">Portfolio</a>
 
 ---
 
