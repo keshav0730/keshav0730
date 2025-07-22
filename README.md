@@ -1,97 +1,116 @@
-```diff
-+ ✅ FRONTEND MASTERY: LEARNING MODE ACTIVE
-+ ✅ BACKEND PROTOCOLS: LEARNING MODE ACTIVE
-+ ✅ DATA SCIENCE PATHWAYS: NEURAL TRAINING INITIATED  
-+ ✅ UI/UX QUANTUM ENGINE: FULLY OPERATIONAL
-- ⚠️  PIXEL-PERFECT OBSESSION: MAXIMUM INTENSITY
-- 🔄 CONTINUOUS EVOLUTION: NEVER-ENDING UPGRADE CYCLE
-```
+Here's the complete `README.md` content for you to copy and paste:
+
+````markdown
+# Keshav Mishra - Full Stack Developer
+
+**Code is my art.**
+
 ---
 
-## 🧬 **DEVELOPER EVOLUTION MATRIX**
+## 🔥 **TECH STACK**
+
+- **Frontend**: React.js, Next.js, Tailwind CSS
+- **Backend**: Node.js, Django, Spring Boot
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **Cloud**: AWS, Firebase
+- **Others**: Docker, Kubernetes, Git, CI/CD
+
+---
+
+## 🚀 **CURRENT FOCUS**
+
+- **Frontend**: Building fast, scalable, and accessible web applications.
+- **Backend**: Scaling APIs, optimizing performance, and implementing microservices.
+- **Data Science**: Exploring AI and ML to transform data into actionable insights.
+- **System Design**: Architecting high-performance systems for real-world challenges.
+
+---
+
+## 🧠 **DEVELOPER PROFILE**
 
 ```typescript
-interface FrontendArchitect {
-  readonly role: "Frontend Specialist";
-  readonly experience: "Expert Level";
-  readonly currentFocus: ["UI/UX Excellence", "Performance Optimization"];
-  readonly learningPath: ["Backend Development", "Data Science", "ML/AI"];
+interface DeveloperProfile {
+  readonly role: "Frontend Specialist | Backend Developer | Data Science Enthusiast";
+  readonly experience: "Veteran";
+  readonly currentFocus: ["Code Optimization", "System Design", "Backend Scaling"];
+  readonly techStack: ["React", "Node.js", "Django", "Python", "PostgreSQL", "AWS"];
 }
 
-class KeshavMishra implements FrontendArchitect {
-  private skillLevel = {
-    frontend: 95,        // 🔥 Expert Level
-    backend: 45,         // 📈 Rapidly Growing
-    dataScience: 25,     // 🌱 Foundation Building
-    uiux: 90,           // 🎨 Design-First Mindset
-    performance: 85      // ⚡ Speed Obsessed
+class Developer implements DeveloperProfile {
+  private proficiency = {
+    frontend: 95,    // 🔥 Mastery Level
+    backend: 70,     // 📈 Accelerating
+    dataScience: 40, // 🌱 Foundation for AI
+    performance: 90  // ⚡ Speed Obsession
   };
   
-  async evolutionCycle(): Promise<void> {
-    while (this.isAlive) {
-      await this.perfectPixels();
-      await this.optimizePerformance();
-      await this.learnBackendConcepts();
-      await this.exploreDataPatterns();
-      await this.pushBoundaries();
+  async developmentCycle(): Promise<void> {
+    while (this.isActive) {
+      await this.refactorCode();
+      await this.fixBugs();
+      await this.scaleSystems();
+      await this.optimizeQueries();
+      this.innovate();
       this.levelUp();
     }
   }
   
   getCurrentMission(): string {
-    return "Transforming complex ideas into intuitive, blazing-fast web experiences";
+    return "Building clean, fast, and scalable systems—always pushing the limits.";
   }
 }
-```
-
-<div align="center">
-
-### 🎯 **DEVELOPER STATUS**
-[![](https://img.shields.io/badge/FRONTEND-EXPERT_LEVEL-00ff41?style=for-the-badge&logo=react&logoColor=white)](#)
-[![](https://img.shields.io/badge/BACKEND-LEARNING_MODE-ffa500?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![](https://img.shields.io/badge/DATA_SCIENCE-EXPLORER-4ecdc4?style=for-the-badge&logo=python&logoColor=white)](#)
-[![](https://img.shields.io/badge/AVAILABILITY-READY_TO_BUILD-ff6b6b?style=for-the-badge&logo=statuspage&logoColor=white)](#)
-
-</div>
-
-
-## 🌟 **DAILY INSPIRATION FEED**
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20user%20experience%20is%20invisible%20-%20it%20just%20works&author=Frontend%20Philosophy)
-
-</div>
-
-<div align="center">
-
-## 💫 **FRONTEND ARCHITECT'S MANIFESTO**
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  "Great frontend is invisible - users don't notice it       ║
-║   because it just works. That's the art of interface craft" ║
-║                                                              ║
-║  "Learning never stops. Today's React expert is tomorrow's  ║
-║   full-stack architect, and next year's data scientist"     ║
-║                                                              ║
-║  - Keshav Mishra, Frontend Architect & Eternal Student      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-### 🚀 **CURRENT PROJECT FOCUS**
-![React](https://img.shields.io/badge/BUILDING-NEXT.JS_APPS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Learning](https://img.shields.io/badge/LEARNING-BACKEND_APIS-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Exploring](https://img.shields.io/badge/EXPLORING-DATA_PATTERNS-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
+````
 
 ---
 
-<div align="center">
+## ⚡ **PROJECTS**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+* **AI-Powered UPSC Companion**: A learning assistant that quizzes, mentors, and evaluates for UPSC preparation.
+* **E-Commerce Backend**: Scalable backend for an e-commerce platform, built with Node.js and MongoDB.
+* **System Monitoring Dashboard**: Real-time data dashboard using React and WebSockets.
 
-**⚡ FRONTEND ARCHITECT • EVOLVING INTO FULL-STACK • NEVER STOP LEARNING ⚡**
+---
 
-</div>
+## 💻 **DAILY INSPIRATION**
+
+> “Good code is its own best documentation. A well-written code is easy to understand and read. Keep it clean, keep it clear.”
+
+---
+
+## 🛠️ **TOOLS I USE DAILY**
+
+* **Code**: VS Code, Sublime Text
+* **Version Control**: Git, GitHub, GitLab
+* **CI/CD**: Jenkins, CircleCI
+* **Containerization**: Docker, Kubernetes
+* **Monitoring**: Prometheus, Grafana
+* **Database Management**: Postman, DBeaver, pgAdmin
+
+---
+
+## 🔥 **MINDSET**
+
+```
+"Code should be lean and fast - no fluff, just performance."
+
+"Full stack isn't a title, it's a mindset. Always adapt, optimize, and build."
+```
+
+---
+
+## 💬 **LET'S CONNECT**
+
+* **Email**: [keshav.mishra@example.com](mailto:keshav.mishra@example.com)
+* **LinkedIn**: [linkedin.com/in/keshavmishra](https://linkedin.com/in/keshavmishra)
+* **Twitter**: [@keshavmishra](https://twitter.com/keshavmishra)
+
+---
+
+## 🔥 **NEVER STOP LEARNING**
+
+*Full-stack development, system design, and optimization never stop evolving. Let's code hard, and build things that last.*
+
+```
+
+Feel free to copy and paste this into your `README.md` file! This will give your GitHub profile a clean, professional look with a hardcore dev vibe.
+```
