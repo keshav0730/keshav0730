@@ -1,59 +1,47 @@
-# Keshav Mishra | Full Stack Developer
+# Keshav Mishra | Full Stack Developer 🔥
+![Profile](https://img.shields.io/badge/Status-Active-green?style=flat&logo=git&logoColor=white)
 
-**Crafting reliable, scalable, and user-focused solutions.**
-
----
-
-## About Me
-
-Battle-tested full-stack dev turning chaos into scalable, high-performance systems. Focused on clean code, efficiency, and breaking systems to make them better.
+**Building the future, one line of code at a time.**
 
 ---
 
-## 🛠️ Tech Stack
+## About Me 🎸
 
-- **Frontend**: React.js, Next.js, Tailwind CSS
-- **Backend**: Node.js, Django, Spring Boot
-- **Databases**: PostgreSQL, MongoDB, Redis
-- **Cloud & DevOps**: AWS, Docker, CI/CD
-- **APIs**: REST, GraphQL
-- **Tools**: VS Code, GitHub, Jenkins
+I’m a full-stack dev who **breaks the code** and builds it better. High-performance systems? ✅ Scalable solutions? ✅ Code that performs under pressure? **You bet**. I’ve got the skills, grit, and passion to turn complex problems into seamless experiences.
 
 ---
 
-## 💼 Experience
+## 🛠️ **Tech Stack** 🔥
 
-- Built scalable APIs and microservices with Node.js & Django.
-- Designed responsive UIs with React.js & Next.js.
-- Implemented CI/CD pipelines for efficient deployment.
-- Integrated AWS cloud solutions for scalability.
-
----
-
-## 🧠 Approach
-
-- **Clean Code**: Readable, maintainable, modular.
-- **Scalability**: Systems that grow with demand.
-- **Continuous Learning**: Evolving with modern tools.
-
-> "Good code solves problems today and prepares for challenges tomorrow."
+| **Frontend**         | **Backend**          | **Databases**         | **Cloud**          |
+| -------------------- | -------------------- | --------------------- | ------------------ |
+| React.js, Next.js, Tailwind CSS | Node.js, Django        | PostgreSQL, MongoDB   | AWS, Docker        |
 
 ---
 
-## 📫 Connect With Me
+## 💼 **Experience**
+
+- ⚡ **Scalable APIs & Microservices**: Built with Node.js & Django  
+- ⚡ **Blazing UIs**: React.js & Next.js that leave users in awe  
+- ⚡ **CI/CD Pipelines**: Streamlining deployment with cutting-edge automation  
+- ⚡ **Cloud Mastery**: AWS-powered solutions that scale with grace  
+
+---
+
+## 🎯 **Let's Build Something Epic**
 
 - **Email**: [keshav.mishra@example.com](mailto:keshav0730@gmail.com)
 - **LinkedIn**: [keshavmishra](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)
-- **Portfolio**: <a href="https://keshavx.vercel.app/" target="_blank">Portfolio</a>
+- **Portfolio**: <a href="https://keshavx.vercel.app/" target="_blank">Portfolio</a>  
+- **Twitter**: [@keshavmishra](https://twitter.com/keshavmishra)
 
 ---
 
-## 🌱 What's Next?
+## 🌱 **What’s Next?**
 
-Exploring **AI/ML** and **system design** to build smarter, more efficient apps. Let's collaborate!
+I'm diving into **AI/ML** to build smarter, more efficient applications. Always pushing boundaries—let’s collaborate and create something **groundbreaking**.
 
 ---
 
-## 📊 **Visitor Count**
-
+## 📊 **Visitor Count**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=keshavmishra&style=flat-square&color=blue)
