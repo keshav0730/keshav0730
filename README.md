@@ -1,6 +1,4 @@
-Here's an improved version of the `README.md` that is streamlined, more polished, and emphasizes your skills, projects, and mindset in a clear, professional way. It's focused on your experience as a developer without unnecessary fluff:
 
-````markdown
 # Keshav Mishra | Full Stack Developer
 
 **Building scalable systems, one line of code at a time.**
