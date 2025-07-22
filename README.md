@@ -1,51 +1,64 @@
 # Keshav Mishra | Full Stack Developer 🚀
 
-**I build what others can't. Period.**
+**Building scalable, high-performance systems with a touch of intelligence.**
 
 ---
 
 ## About Me
 
-I turn complex problems into simple, scalable solutions. Full-stack? Check. Fast, clean code? Always. If it’s broken, I fix it. If it’s slow, I speed it up. If it's not smart enough, I make it **intelligent** with **AI** and **LLMs**. **No limits.**
+I don’t just build—**I break and rebuild**. Full-stack? ✅ Clean, efficient code? ✅ Making systems smarter with **AI/ML** and **LLMs**? **Hell yeah**. I create high-impact solutions that scale and evolve with the times.
 
 ---
 
 ## 🛠️ **Tech Stack**
 
-- **Frontend**: React.js, Next.js, Tailwind CSS  
-- **Backend**: Node.js, Django  
-- **Databases**: PostgreSQL, MongoDB  
-- **Cloud**: AWS, Docker  
-- **APIs**: REST, GraphQL  
-- **AI/ML**: Fine-tuned LLMs, Neural Networks, NLP (Natural Language Processing)
-
+| **Frontend**          | **Backend**           | **Databases**          | **Cloud**           | **AI/ML**          |
+|-----------------------|-----------------------|------------------------|---------------------|--------------------|
+| React.js, Next.js, Tailwind CSS | Node.js, Django         | PostgreSQL, MongoDB    | AWS, Docker         | Fine-tuned LLMs, Neural Networks |
+  
 ---
 
 ## 💼 **What I Do**
 
-- 🔥 **Build scalable systems** with Node.js & Django  
-- ⚡ **Craft high-performance UIs** with React & Next.js  
-- 🚀 **Automate everything** with CI/CD  
-- 🌐 **Master AWS** for seamless cloud solutions  
-- 🤖 **Integrate AI/ML** into real-world applications (Because why not?)  
-- 🧠 **Fine-tune LLMs** to make systems smarter and more intuitive
+- 🔥 **Design and build scalable, resilient systems** using Node.js & Django.
+- ⚡ **Create high-performance UIs** with React and Next.js.
+- 🚀 **Integrate AI/ML** to make systems smarter and more intuitive.
+- 🌐 **Master AWS** to deploy apps that can scale effortlessly.
+- 🤖 **Fine-tune LLMs** for more accurate, intelligent user interactions.
 
 ---
 
-## 🤝 **Let’s Talk**
+## 🔥 **AI Assignment**: Fine-tuned Chatbot with LLM Integration
 
-- **Email**: [keshav.mishra@example.com](mailto:keshav0730@gmail.com)  
-- **LinkedIn**: [keshavmishra](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)  
-- **Portfolio**: <a href="https://keshavx.vercel.app/" target="_blank">Portfolio</a>  
+### **Objective**:
+Build a **chatbot** powered by a **fine-tuned LLM** that provides dynamic, intelligent conversations based on user input.
+
+### **What I Did**:
+- **Collected and preprocessed conversational data** for model fine-tuning.
+- **Fine-tuned GPT-4** to specialize in real-world dialogue and responses.
+- **Created a responsive web interface** for seamless interaction using **React.js**.
+- **Deployed the AI model** on **AWS** for real-time performance tracking and improvements.
+
+---
+
+## 📫 **Let’s Connect**
+
+- **Email**: [keshav.mishra@example.com](mailto:keshav0730@gmail.com)
+- **LinkedIn**: [keshavmishra](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)
+- **Portfolio**: <a href="https://keshavx.vercel.app/" target="_blank">Portfolio</a>
 - **Twitter**: [@keshavmishra](https://twitter.com/keshavmishra)
 
 ---
 
-## 🚀 **What’s Next?**
+## 🚀 **What's Next?**
 
-**AI** is the future. I’m exploring **LLM fine-tuning** and **neural networks** to take applications from smart to **genius**. Always optimizing, always building. Let's create something **next-gen**.
+- **AI/ML**: Exploring how LLMs and neural networks can revolutionize modern applications.
+- **System Design**: Building smarter, more scalable architectures.
+- **Open to collaborations**: Let's build something next-gen together.
 
 ---
 
-## 📊 **Visitor Count**  
+## 📊 **Visitor Count**
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=keshavmishra&style=flat-square&color=blue)
+
