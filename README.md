@@ -1,45 +1,49 @@
-# Keshav Mishra | Full Stack Developer 🔥
-![Profile](https://img.shields.io/badge/Status-Active-green?style=flat&logo=git&logoColor=white)
+# Keshav Mishra | Full Stack Developer 🚀
 
-**Building the future, one line of code at a time.**
-
----
-
-## About Me 🎸
-
-I’m a full-stack dev who **breaks the code** and builds it better. High-performance systems? ✅ Scalable solutions? ✅ Code that performs under pressure? **You bet**. I’ve got the skills, grit, and passion to turn complex problems into seamless experiences.
+**I build what others can't. Period.**
 
 ---
 
-## 🛠️ **Tech Stack** 🔥
+## About Me
 
-| **Frontend**         | **Backend**          | **Databases**         | **Cloud**          |
-| -------------------- | -------------------- | --------------------- | ------------------ |
-| React.js, Next.js, Tailwind CSS | Node.js, Django        | PostgreSQL, MongoDB   | AWS, Docker        |
+I turn complex problems into simple, scalable solutions. Full-stack? Check. Fast, clean code? Always. If it’s broken, I fix it. If it’s slow, I speed it up. If it's not smart enough, I make it **intelligent** with **AI** and **LLMs**. **No limits.**
 
 ---
 
-## 💼 **Experience**
+## 🛠️ **Tech Stack**
 
-- ⚡ **Scalable APIs & Microservices**: Built with Node.js & Django  
-- ⚡ **Blazing UIs**: React.js & Next.js that leave users in awe  
-- ⚡ **CI/CD Pipelines**: Streamlining deployment with cutting-edge automation  
-- ⚡ **Cloud Mastery**: AWS-powered solutions that scale with grace  
+- **Frontend**: React.js, Next.js, Tailwind CSS  
+- **Backend**: Node.js, Django  
+- **Databases**: PostgreSQL, MongoDB  
+- **Cloud**: AWS, Docker  
+- **APIs**: REST, GraphQL  
+- **AI/ML**: Fine-tuned LLMs, Neural Networks, NLP (Natural Language Processing)
 
 ---
 
-## 🎯 **Let's Build Something Epic**
+## 💼 **What I Do**
 
-- **Email**: [keshav.mishra@example.com](mailto:keshav0730@gmail.com)
-- **LinkedIn**: [keshavmishra](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)
+- 🔥 **Build scalable systems** with Node.js & Django  
+- ⚡ **Craft high-performance UIs** with React & Next.js  
+- 🚀 **Automate everything** with CI/CD  
+- 🌐 **Master AWS** for seamless cloud solutions  
+- 🤖 **Integrate AI/ML** into real-world applications (Because why not?)  
+- 🧠 **Fine-tune LLMs** to make systems smarter and more intuitive
+
+---
+
+## 🤝 **Let’s Talk**
+
+- **Email**: [keshav.mishra@example.com](mailto:keshav0730@gmail.com)  
+- **LinkedIn**: [keshavmishra](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)  
 - **Portfolio**: <a href="https://keshavx.vercel.app/" target="_blank">Portfolio</a>  
 - **Twitter**: [@keshavmishra](https://twitter.com/keshavmishra)
 
 ---
 
-## 🌱 **What’s Next?**
+## 🚀 **What’s Next?**
 
-I'm diving into **AI/ML** to build smarter, more efficient applications. Always pushing boundaries—let’s collaborate and create something **groundbreaking**.
+**AI** is the future. I’m exploring **LLM fine-tuning** and **neural networks** to take applications from smart to **genius**. Always optimizing, always building. Let's create something **next-gen**.
 
 ---
 
