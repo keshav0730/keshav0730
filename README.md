@@ -43,7 +43,7 @@ Battle-tested full-stack dev who turns chaos into scalable, high-performance sys
 
 - **Email**: [keshav.mishra@example.com](mailto:keshav0730@gmail.com)
 - **LinkedIn**: [linkedin.com/in/keshavmishra](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)
-- **Portfolio**: [https://keshavx.vercel.app/](#)
+- **[Portfolio](https://keshavx.vercel.app/)
 
 ---
 
