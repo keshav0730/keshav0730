@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-Battle-tested full-stack dev blending frontend finesse with backend brute force. From building scalable systems to AI-driven web apps, I bring performance, simplicity, and a touch of chaos to every project.
+Backbencher-turned-builder. I break, fix, and scale code like second nature. From hacking out web apps in dorm rooms to shipping AI-integrated platforms—I've lived the bugs, fought the fire, and engineered the upgrades.
 
 ---
 
@@ -25,7 +25,7 @@ Battle-tested full-stack dev blending frontend finesse with backend brute force.
 
 ### 🎯 [PrepSathi.in](https://prepsathi.in)
 
-AI-powered UPSC companion: quizzes, feedback, essay mentorship, and real-time guidance.
+AI-powered UPSC companion: quizzes, feedback, essay mentorship, and real-time guidance. [Visit Website](https://prepsathi.in){\:target="\_blank"}
 
 ### 🛠️ AI Jarvis (Multilingual Assistant)
 
@@ -52,12 +52,29 @@ Robust APIs, payment gateways, and microservices for a production-ready platform
 
 ---
 
+## 🧠 Personal Roadmap
+
+```mermaid
+gantt
+  title Roadmap to 2027
+  section AI & ML
+    Fine-tune custom LLMs :done, 2024-06, 2m
+    Build AI mentorship tools :active, 2024-08, 3m
+  section Backend
+    Microservice architecture for PrepSathi :active, 2024-07, 4m
+    Scale infra on AWS :2024-10, 3m
+  section Open Source
+    Launch LLM-powered edtech tools :2024-09, 2m
+```
+
+---
+
 ## 📫 Connect With Me
 
-* 🧑‍💻 [Portfolio](https://keshavx.vercel.app/)
-* 💼 [LinkedIn](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)
-* 📬 [Email](mailto:keshav0730@gmail.com)
-* 🐦 [Twitter](https://twitter.com/keshavmishra)
+* 🧑‍💻 <a href="https://keshavx.vercel.app/" target="_blank">Portfolio</a>
+* 💼 <a href="https://www.linkedin.com/in/keshav-k-mishra-b3089b165/" target="_blank">LinkedIn</a>
+* 📬 <a href="mailto:keshav0730@gmail.com" target="_blank">Email</a>
+* 🐦 <a href="https://twitter.com/keshavmishra" target="_blank">Twitter</a>
 
 ---
 
@@ -72,14 +89,6 @@ Robust APIs, payment gateways, and microservices for a production-ready platform
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavmishra&theme=tokyonight"/>
 </div>
-
----
-
-## 🧠 What's Next
-
-* Building LLM apps with RAG, LangChain, and vector search
-* Designing scalable microservices for exam prep platforms
-* Launching open-source tools for Indian ed-tech AI
 
 ---
 
