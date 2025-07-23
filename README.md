@@ -1,69 +1,80 @@
-<div align="center">
-  # Keshav Mishra | Full‑Stack & AI Engineer 🚀  
-  [![Status: ⚡ Live](https://img.shields.io/badge/Status-Live-success?style=flat&logo=git&logoColor=white)]()
-</div>
+<h1 align="center">🚀 Keshav Mishra — Full Stack Engineer | AI-First Problem Solver</h1>
+<p align="center">Rewriting the rules with code. Building systems that scale, think, and evolve.</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keshavmishra&style=flat-square&color=blue" alt="visitors" />
+  <img src="https://img.shields.io/badge/LLM%20Builder-Enabled-9cf?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-Full%20Throttle-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Version-Controlled%20Life-Git-success?style=flat-square" />
+</p>
 
 ---
 
-## 🧠 What I Build
-Systems that scale, think, and outperform expectations. Clean code + AI power = future-proof architecture.
+## 👨‍💻 Who Am I
+
+Bulletproof full stack developer with an eye for detail and an obsession with scalable architectures. From dev to deploy, I make sure every line of code has a purpose—and performs under pressure.
 
 ---
 
-## 🛠️ Stack Overview
+## 🧠 My Toolbox
 
-| Frontend              | Backend           | Databases          | Cloud & DevOps      | AI / LLM Integration         |
-|-----------------------|-------------------|--------------------|----------------------|------------------------------|
-| React · Next.js       | Node.js · Django  | PostgreSQL · MongoDB| AWS · Docker · CI/CD| LLM Fine‑Tuning · NLP Pipelines |
-
----
-
-## 🚀 Featured Projects
-
-- **Smart Chatbot (GPT‑4)**  
-  Fine‑tuned LLM, hosted via Node.js, frontend built with React. Context aware + real-time responses.
-
-- **High‑Scale E‑Commerce Platform**  
-  Inventory tracking, transactional APIs, payment integration, and performance-first architecture.
-
-- **AI Monitoring Dashboard**  
-  Intelligently surfacing insights via React, WebSockets and Prometheus.
+* ⚛️ Frontend: React.js, Next.js, Tailwind CSS, HTML5, CSS3, Framer Motion
+* 🔧 Backend: Node.js, Express.js, Django, Spring Boot
+* 🧠 AI/LLM: OpenAI, LangChain, Whisper, Hugging Face, Transformers
+* 🗃️ Databases: PostgreSQL, MongoDB, Redis
+* ☁️ Cloud & DevOps: AWS (EC2, S3, Lambda), Vercel, Docker, GitHub Actions
+* 📦 Others: Figma, Postman, Notion, VS Code, Prometheus
 
 ---
 
-## 🔍 AI Assignment: Domain LLM Chatbot
+## 🏗️ Highlight Projects
 
-**Goal**: Deploy chat system fine‑tuned for domain‑specific interactions.  
-**How I did it**:
-1. Preprocessed conversation datasets
-2. Fine‑tuned GPT‑4 on domain logic
-3. Built Node.js API & React UI for seamless UX
-4. Deployed on AWS with real-time monitoring
+### 🧠 **PrepSathi.in**
 
----
+A futuristic UPSC preparation platform with AI-backed essay reviews, personalized quizzes, and real-time mentoring.
 
-## 📈 GitHub Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavmishra&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavmishra&layout=compact&theme=dark)
+### 🧬 **Voice-Based AI Assistant**
 
----
+Multilingual personal assistant using Python, OpenAI Whisper, and LangChain. Interacts, automates, and evolves.
 
-## 🤝 Connect
+### 🛍️ **Headless Commerce Engine**
 
-- ✉️ Email: [keshav.mishra@example.com](mailto:keshav0730@gmail.com)  
-- 🔗 LinkedIn: [keshavmishra](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)  
-- 🌐 Portfolio: [keshavx.vercel.app](https://keshavx.vercel.app/)  
-- 🐦 Twitter: [@keshavmishra](https://twitter.com/keshavmishra)
+Modern API-first backend for ecommerce with full auth, payments, and performance monitoring.
+
+### 📊 **System Monitor Dashboard**
+
+Real-time dashboard with WebSockets + Prometheus for scalable infrastructure monitoring.
 
 ---
 
-## 🌱 Future Scope
+## 💥 Development Philosophy
 
-- Advancing AI/ML with smarter LLM pipelines  
-- Building next-gen system architecture  
-- Open to crypto, AI & futuristic tech collaborations
+> "Systems don’t just need to run, they need to adapt."
+
+* ✅ Code that lasts: Modular, testable, and battle-hardened
+* ✅ Architecture that scales: Designed with future load in mind
+* ✅ UX that speaks: Minimal yet functional
 
 ---
 
-## 👀 Visitor Count  
-![Visitor Count](https://komarev.com/ghpvc/?username=keshavmishra&style=flat-square&color=blue)
+## 🌐 Find Me Here
+
+* 📫 [Email](mailto:keshav0730@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)
+* 🌍 [Portfolio](https://keshavx.vercel.app/)
+
+---
+
+## 📈 GitHub Pulse
+
+![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavmishra\&show_icons=true\&theme=radical\&hide=prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavmishra\&layout=compact\&theme=radical)
+
+---
+
+## 🔮 Next Frontier
+
+* Building AI-native workflows with autonomous agents 🧠
+* Scaling LLM-backed platforms for education, automation, and devtools ⚙️
+* Exploring custom RAG pipelines and edge AI deployments 🚀
