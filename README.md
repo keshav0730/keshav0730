@@ -23,7 +23,7 @@ Digital craftsman. AI whisperer. System disruptor. I thrive at the intersection 
 
 ## 🚀 Featured Projects
 
-### 🎯 [PrepSathi.in](https://prepsathi.in){\:target="\_blank"}
+### 🎯 PrepSathi.in
 
 Your UPSC AI mentor. Adaptive quizzes, instant feedback, essay evaluation, and smart nudges to help aspirants crack the code.
 
@@ -97,7 +97,7 @@ gantt
 
 ## 🔥 Live Counter
 
-![Visitor Count](https://komarev.com/ghpvc/?username=keshavmishra\&style=flat-square\&color=purple)
+![Visitor Count](https://komarev.com/ghpvc/?username=keshavmishra\&style=flat-square\&color=brightgreen)
 
 ---
 
