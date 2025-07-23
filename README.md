@@ -81,23 +81,22 @@ gantt
 * 🌐 <a href="https://keshavx.vercel.app/" target="_blank">Portfolio</a>
 * 💼 <a href="https://www.linkedin.com/in/keshav-k-mishra-b3089b165/" target="_blank">LinkedIn</a>
 * ✉️ <a href="mailto:keshav0730@gmail.com" target="_blank">Email</a>
-* 🐦 <a href="https://twitter.com/keshavmishra" target="_blank">Twitter</a>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshavmishra&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keshav0730&show_icons=true&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavmishra&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav0730&theme=radical&hide_border=true" />
 </div>
 
 ---
 
 ## 🔥 Live Counter
 
-![Visitor Count](https://komarev.com/ghpvc/?username=keshavmishra\&style=flat-square\&color=brightgreen)
+![Visitor Count](https://komarev.com/ghpvc/?username=keshav0730\&style=flat-square\&color=brightgreen)
 
 ---
 
