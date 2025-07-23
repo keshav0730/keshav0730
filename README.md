@@ -1,80 +1,92 @@
-<h1 align="center">🚀 Keshav Mishra — Full Stack Engineer | AI-First Problem Solver</h1>
-<p align="center">Rewriting the rules with code. Building systems that scale, think, and evolve.</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:6600ff&height=200&section=header&text=Keshav%20Mishra&fontSize=50&fontAlign=center&fontColor=ffffff"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keshavmishra&style=flat-square&color=blue" alt="visitors" />
-  <img src="https://img.shields.io/badge/LLM%20Builder-Enabled-9cf?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tech%20Stack-Full%20Throttle-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Version-Controlled%20Life-Git-success?style=flat-square" />
-</p>
+  <p><strong>🚀 Full Stack Dev | 🧠 AI Innovator | 🔧 System Optimizer</strong></p>
+  <p>Breaking systems, building futures. Welcome to the code zone.</p>
+</div>
 
 ---
 
-## 👨‍💻 Who Am I
+## 🧠 About Me
 
-Bulletproof full stack developer with an eye for detail and an obsession with scalable architectures. From dev to deploy, I make sure every line of code has a purpose—and performs under pressure.
-
----
-
-## 🧠 My Toolbox
-
-* ⚛️ Frontend: React.js, Next.js, Tailwind CSS, HTML5, CSS3, Framer Motion
-* 🔧 Backend: Node.js, Express.js, Django, Spring Boot
-* 🧠 AI/LLM: OpenAI, LangChain, Whisper, Hugging Face, Transformers
-* 🗃️ Databases: PostgreSQL, MongoDB, Redis
-* ☁️ Cloud & DevOps: AWS (EC2, S3, Lambda), Vercel, Docker, GitHub Actions
-* 📦 Others: Figma, Postman, Notion, VS Code, Prometheus
+Battle-tested full-stack dev blending frontend finesse with backend brute force. From building scalable systems to AI-driven web apps, I bring performance, simplicity, and a touch of chaos to every project.
 
 ---
 
-## 🏗️ Highlight Projects
+## ⚙️ Tech Arsenal
 
-### 🧠 **PrepSathi.in**
-
-A futuristic UPSC preparation platform with AI-backed essay reviews, personalized quizzes, and real-time mentoring.
-
-### 🧬 **Voice-Based AI Assistant**
-
-Multilingual personal assistant using Python, OpenAI Whisper, and LangChain. Interacts, automates, and evolves.
-
-### 🛍️ **Headless Commerce Engine**
-
-Modern API-first backend for ecommerce with full auth, payments, and performance monitoring.
-
-### 📊 **System Monitor Dashboard**
-
-Real-time dashboard with WebSockets + Prometheus for scalable infrastructure monitoring.
+| Frontend       | Backend                      | AI/LLM                               | DevOps & Cloud              | DBs                        |
+| -------------- | ---------------------------- | ------------------------------------ | --------------------------- | -------------------------- |
+| React, Next.js | Node.js, Django, Spring Boot | OpenAI, LangChain, Whisper, Pinecone | AWS, Docker, GitHub Actions | PostgreSQL, MongoDB, Redis |
 
 ---
 
-## 💥 Development Philosophy
+## 🔥 Featured Projects
 
-> "Systems don’t just need to run, they need to adapt."
+### 🎯 [PrepSathi.in](https://prepsathi.in)
 
-* ✅ Code that lasts: Modular, testable, and battle-hardened
-* ✅ Architecture that scales: Designed with future load in mind
-* ✅ UX that speaks: Minimal yet functional
+AI-powered UPSC companion: quizzes, feedback, essay mentorship, and real-time guidance.
+
+### 🛠️ AI Jarvis (Multilingual Assistant)
+
+Custom AI assistant with voice + command control in Hindi/English. Built with LLMs + OS automation.
+
+### 📡 Real-time System Monitor
+
+React + WebSocket dashboard powered by Prometheus. Built for scale, debugged with style.
+
+### 🛍️ E-commerce Backend
+
+Robust APIs, payment gateways, and microservices for a production-ready platform.
 
 ---
 
-## 🌐 Find Me Here
+## 🧬 My Dev Philosophy
 
-* 📫 [Email](mailto:keshav0730@gmail.com)
+* 💡 Build smart, not fancy
+* 🧼 Write code like someone will read it in production (because they will)
+* 🚀 Automate what you hate
+* 🧠 Always learning, always optimizing
+
+> "Disrupt systems, don't decorate them."
+
+---
+
+## 📫 Connect With Me
+
+* 🧑‍💻 [Portfolio](https://keshavx.vercel.app/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)
-* 🌍 [Portfolio](https://keshavx.vercel.app/)
+* 📬 [Email](mailto:keshav0730@gmail.com)
+* 🐦 [Twitter](https://twitter.com/keshavmishra)
 
 ---
 
-## 📈 GitHub Pulse
+## 📈 Visitor Count
 
-![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavmishra\&show_icons=true\&theme=radical\&hide=prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavmishra\&layout=compact\&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=keshavmishra\&style=flat-square\&color=blue)
 
 ---
 
-## 🔮 Next Frontier
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshavmishra&show_icons=true&theme=tokyonight"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavmishra&theme=tokyonight"/>
+</div>
 
-* Building AI-native workflows with autonomous agents 🧠
-* Scaling LLM-backed platforms for education, automation, and devtools ⚙️
-* Exploring custom RAG pipelines and edge AI deployments 🚀
+---
+
+## 🧠 What's Next
+
+* Building LLM apps with RAG, LangChain, and vector search
+* Designing scalable microservices for exam prep platforms
+* Launching open-source tools for Indian ed-tech AI
+
+---
+
+> You’re not just reading a README — you’re reading a roadmap to the future.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600ff,100:0099ff&height=120&section=footer"/>
+</div>
