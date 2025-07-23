@@ -1,69 +1,69 @@
-<!-- Title & Badge -->
-# Keshav Mishra | Full‑Stack Developer 🚀  
-[![Status: Active](https://img.shields.io/badge/Status-Active-green?style=flat&logo=git&logoColor=white)]()
-
-**I build systems that scale, perform, and think.**
-
----
-
-## About Me
-
-Battle-tested full-stack dev who turns chaos into scalable, high-performance solutions. Clean code, AI-enhanced logic, and systems that never break.
+<div align="center">
+  # Keshav Mishra | Full‑Stack & AI Engineer 🚀  
+  [![Status: ⚡ Live](https://img.shields.io/badge/Status-Live-success?style=flat&logo=git&logoColor=white)]()
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-| Frontend              | Backend             | Databases           | Cloud & DevOps     | AI/ML & LLMs              |
-|-----------------------|---------------------|---------------------|---------------------|----------------------------|
-| React.js · Next.js    | Node.js · Django     | PostgreSQL · MongoDB| AWS · Docker · CI/CD| LLM fine-tuning · NLP · Neural Nets |
+## 🧠 What I Build
+Systems that scale, think, and outperform expectations. Clean code + AI power = future-proof architecture.
 
 ---
 
-## 🚀 Projects & Highlights
+## 🛠️ Stack Overview
 
-| Project                  | Description |
-|--------------------------|-------------|
-| **Smart Chatbot (LLM)** | Fine‑tuned GPT‑4 model powering a domain-specific chatbot with custom backend & frontend UI |
-| **E‑Commerce Platform**  | Scalable, real-time inventory and payment system using Node.js, React, Stripe API |
-| **Monitoring Dashboard** | Live server metrics using React, Prometheus, WebSockets for proactive alerts |
+| Frontend              | Backend           | Databases          | Cloud & DevOps      | AI / LLM Integration         |
+|-----------------------|-------------------|--------------------|----------------------|------------------------------|
+| React · Next.js       | Node.js · Django  | PostgreSQL · MongoDB| AWS · Docker · CI/CD| LLM Fine‑Tuning · NLP Pipelines |
 
 ---
 
-## 💼 What I Do
+## 🚀 Featured Projects
 
-- Build scalable systems and APIs that handle traffic spikes like a champ  
-- Craft lightning-fast UI experiences with React/Next.js  
-- Fine‑tune LLMs to add intelligence to services and experiences  
-- Automate full CI/CD pipelines and deploy on AWS for production reliability
+- **Smart Chatbot (GPT‑4)**  
+  Fine‑tuned LLM, hosted via Node.js, frontend built with React. Context aware + real-time responses.
 
----
+- **High‑Scale E‑Commerce Platform**  
+  Inventory tracking, transactional APIs, payment integration, and performance-first architecture.
 
-## 🎯 AI Assignment: Fine-Tuned Chatbot
-
-**Objective**: Build a chatbot powered by a fine‑tuned LLM capable of domain-specific dialogs.
-
-**Steps Taken**:  
-- Cleaned & tokenized conversational data  
-- Fine-tuned GPT‑4 with domain-specific prompts  
-- Built React frontend and Node.js backend for seamless interaction  
-- Deployed model on AWS with real-time monitoring and performance tracking
+- **AI Monitoring Dashboard**  
+  Intelligently surfacing insights via React, WebSockets and Prometheus.
 
 ---
 
-## 📫 Connect with Me
+## 🔍 AI Assignment: Domain LLM Chatbot
 
-- ✉️ [Email](mailto:keshav0730@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)  
-- 🌐 [Portfolio](https://keshavx.vercel.app/)<!-- target blank won't render in markdown preview here -->
-
----
-
-## 🌱 What's Next
-
-Exploring deeper AI/ML, smarter system design, and revolutionary architectures. Ready to collaborate on next‑gen applications. Let's build the future.
+**Goal**: Deploy chat system fine‑tuned for domain‑specific interactions.  
+**How I did it**:
+1. Preprocessed conversation datasets
+2. Fine‑tuned GPT‑4 on domain logic
+3. Built Node.js API & React UI for seamless UX
+4. Deployed on AWS with real-time monitoring
 
 ---
 
-## 📊 Visitor Count  
+## 📈 GitHub Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavmishra&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavmishra&layout=compact&theme=dark)
+
+---
+
+## 🤝 Connect
+
+- ✉️ Email: [keshav.mishra@example.com](mailto:keshav0730@gmail.com)  
+- 🔗 LinkedIn: [keshavmishra](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)  
+- 🌐 Portfolio: [keshavx.vercel.app](https://keshavx.vercel.app/)  
+- 🐦 Twitter: [@keshavmishra](https://twitter.com/keshavmishra)
+
+---
+
+## 🌱 Future Scope
+
+- Advancing AI/ML with smarter LLM pipelines  
+- Building next-gen system architecture  
+- Open to crypto, AI & futuristic tech collaborations
+
+---
+
+## 👀 Visitor Count  
 ![Visitor Count](https://komarev.com/ghpvc/?username=keshavmishra&style=flat-square&color=blue)
