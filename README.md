@@ -8,7 +8,7 @@ Dev who just likes to get stuff working. Not chasing perfection—just clean eno
 
 ---
 
-Code less. Build more. Break nothing.
+Code less. Build more. Break everything. Rebuild better.
 
 ---
 
@@ -19,5 +19,3 @@ Code less. Build more. Break nothing.
 * [Email](mailto:keshav0730@gmail.com)
 
 ---
-
-> "Code less. Build more. Break nothing."
