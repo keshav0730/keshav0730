@@ -1,109 +1,72 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:9900ff&height=200&section=header&text=Keshav%20Mishra&fontSize=50&fontAlign=center&fontColor=ffffff"/>
+<h1 align="center">Keshav Mishra</h1>
 
-  <p><strong>💻 Full Stack Warrior | 🤖 LLM Alchemist | ⚙️ System Sculptor</strong></p>
-  <p>Architecting the future—one algorithm at a time.</p>
-</div>
+---
+
+## 🕒 Timeline (2024 - 2027)
+
+1. 🚀 Launch AI mentoring tools for UPSC prep
+2. 🧠 Fine-tune custom LLMs for education
+3. 🛠️ Convert PrepSathi to full microservices
+4. 🌐 Build multilingual AI assistants
+5. 📊 Release system analytics dashboard
+6. 📚 Open source LLM CLI tools
+7. 🧩 Build AI plugin architecture
+8. 🔧 Automate backend DevOps pipelines
+9. 🤝 Collaborate on global AI research
+10. 💼 Mentor & grow developer community
 
 ---
 
 ## 🧠 About Me
 
-Digital craftsman. AI whisperer. System disruptor. I thrive at the intersection of logic and creativity, building fast, breaking smart, and solving real-world chaos with scalable elegance.
+I'm a full stack developer passionate about building scalable and elegant software solutions. I enjoy working with modern web technologies and AI systems to solve real-world problems.
 
 ---
 
-## ⚙️ Tech Arsenal
+## ⚙️ Tech Stack
 
-| Frontend       | Backend                      | AI/LLM                                             | DevOps & Cloud                      | DBs                                  |
-| -------------- | ---------------------------- | -------------------------------------------------- | ----------------------------------- | ------------------------------------ |
-| React, Next.js | Node.js, Django, Spring Boot | OpenAI, LangChain, Whisper, Transformers, Pinecone | AWS, Docker, GitHub Actions, Vercel | PostgreSQL, MongoDB, Redis, Supabase |
-
----
-
-## 🚀 Featured Projects
-
-### 🎯 PrepSathi.in
-
-Your UPSC AI mentor. Adaptive quizzes, instant feedback, essay evaluation, and smart nudges to help aspirants crack the code.
-
-### 🤖 AI Jarvis (Multilingual Assistant)
-
-Hindi-English voice assistant that performs system tasks, generates code, and learns via fine-tuned LLMs. Think local Jarvis with desi swag.
-
-### 📊 Real-time System Monitor
-
-Visualize your servers in style. React + WebSocket dashboard with Prometheus & Grafana under the hood.
-
-### 🛍️ Microservices E-Commerce
-
-Microservice-based full stack backend with payment integrations, product catalog, and event-driven design.
+* **Frontend**: React, Next.js
+* **Backend**: Node.js, Django, Spring Boot
+* **AI/LLM**: OpenAI, LangChain, Transformers, Pinecone
+* **DevOps & Cloud**: AWS, Docker, GitHub Actions, Vercel
+* **Databases**: PostgreSQL, MongoDB, Redis, Supabase
 
 ---
 
-## 💡 Dev Philosophy
+## 🚀 Projects
 
-* 🧠 Learn deeply, code simply
-* ⚡ Performance is product
-* 🔄 Reuse, refactor, repeat
-* 🧬 Build what breaks limits
-
-> "I don’t write code. I write future-proof functions."
+* **PrepSathi.in** – UPSC AI mentor for smart test preparation
+* **AI Jarvis** – Hindi-English voice assistant that executes system tasks and generates code
+* **System Monitor** – Real-time server dashboard using WebSockets, Prometheus & Grafana
+* **E-Commerce Platform** – Microservices backend with payment and product management
 
 ---
 
-## 🧠 Personal Roadmap
+## 💡 Philosophy
 
-```mermaid
-gantt
-  title Dev Vision: 2024 - 2027
-  section LLM & AI
-    LLM fine-tuning suite :done, 2024-06, 2m
-    AI mentoring tools :active, 2024-08, 3m
-  section Platform Engineering
-    PrepSathi Microservices :active, 2024-07, 4m
-    LLM-powered backend refactor :2024-10, 3m
-  section Open Source
-    Edtech AI tools :2024-09, 2m
-    LLM CLI assistant :2025-01, 1m
-```
+* Code should be clean, efficient, and maintainable
+* Always learn, improve, and adapt
 
 ---
 
-## 🧩 Toolbelt
+## 🧰 Tools
 
-![Langs](https://skillicons.dev/icons?i=react,nextjs,nodejs,django,spring,postgres,mongodb,redis,aws,docker,graphql,vercel,ts,js,py,git)
+React, Next.js, Node.js, Django, Spring Boot, PostgreSQL, MongoDB, Redis, AWS, Docker, TypeScript, Git
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect
 
-* 🌐 <a href="https://keshavx.vercel.app/" target="_blank">Portfolio</a>
-* 💼 <a href="https://www.linkedin.com/in/keshav-k-mishra-b3089b165/" target="_blank">LinkedIn</a>
-* ✉️ <a href="mailto:keshav0730@gmail.com" target="_blank">Email</a>
+* Portfolio: [keshavx.vercel.app](https://keshavx.vercel.app/)
+* LinkedIn: [linkedin.com/in/keshav-k-mishra-b3089b165](https://www.linkedin.com/in/keshav-k-mishra-b3089b165/)
+* Email: [keshav0730@gmail.com](mailto:keshav0730@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshav0730&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav0730&theme=radical&hide_border=true" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav0730\&show_icons=true\&theme=default)
 
 ---
 
-## 🔥 Live Counter
-
-![Visitor Count](https://komarev.com/ghpvc/?username=keshav0730\&style=flat-square\&color=brightgreen)
-
----
-
-> You’re not scrolling through a README. You’re scanning a mission log.
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9900ff,100:00ffff&height=120&section=footer"/>
-</div>
+> “Simple is better than complex. But also, practical beats perfect.”
