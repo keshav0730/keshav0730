@@ -1,10 +1,6 @@
-<h1 align="center">Keshav Mishra</h1>
-
----
 
 Code less. Build more. Break everything. Rebuild better. Think deeper.
 
----
 
 * _Systems evolve. So should your mindset._  
 * _Elegance isn’t in perfection—it's in what survives chaos._  
